@@ -33,7 +33,7 @@ I successfully completed both modules and earned a digital badge:
 
 ![AWS Educate Badge](introduction_to_cloud.png)
 
-[Link](https://www.credly.com/badges/253b9c35-2abc-466d-b401-35e0f2d2f628)
+[Link](https://www.credly.com/badges/253b9c35-2abc-466d-b401-35e0f2d2f628/public_url)
 
 ---
 
