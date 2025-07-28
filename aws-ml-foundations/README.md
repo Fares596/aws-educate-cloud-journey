@@ -66,8 +66,7 @@ It enables systems to **generalize from past data**, adapt over time, and suppor
 
 ## 🏅 Badge
 
-Badge not received yet — expected within 24 hours.
-
+- [ML Foundations Badge](https://www.credly.com/badges/c977a241-73ec-4f1b-9fac-f14f2c9bffe7/public_url)
 ---
 
 
